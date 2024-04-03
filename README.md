@@ -1,5 +1,5 @@
 # Web-Dev-Project
 
 ## Group members:
-Gilash Aziza
+Gilash Aziza,
 Zhalgaspaeva Ayakoz
